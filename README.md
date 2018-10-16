@@ -60,7 +60,7 @@ Welcome `Star` and `Fork`, your support is my greatest affirmation.
 
 ### Activity
 
-1. [Android Activity为什么要细化出onCreate、onStart、onResume、onPause、onStop、onDesdroy这么多方法让应用去重载？](http://blog.csdn.net/zhao_3546/article/details/12843477)
+- [x] [Android Activity为什么要细化出onCreate、onStart、onResume、onPause、onStop、onDesdroy这么多方法让应用去重载？](http://blog.csdn.net/zhao_3546/article/details/12843477)
 
 
 ### ADB
